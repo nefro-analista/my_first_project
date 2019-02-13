@@ -11,3 +11,5 @@ created to show data to other people.
 zing data. 
 * _products_ - this is the place where you will place any reports, presentations, or\
  products you create for sharing with other people.
+ 
+ Every folder will count with its own README file
